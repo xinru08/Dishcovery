@@ -11,7 +11,7 @@ def parse_meal(meal):
     # data validation
     # raw meal data is a dictionary
     if not isinstance(meal, dict) or not meal:
-        return "Invalid meal data entered."
+        return None
 
 
     # extract relative fields
