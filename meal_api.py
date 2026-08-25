@@ -72,3 +72,17 @@ def get_meal_by_id(meal_id):
     meals = data.get("meals") or []
 
     return meals[0] if meals else None
+
+if __name__ == "__main__":
+    query = input("Enter a meal name to search: ").strip()
+
+    try:
+        meals = search_meals(query)
+        print(f"Found {len(meals)} matching meal(s).")
+
+        if meals:
+            first_meal = get_meal_by_id(meals[0]["idMeal"])
+            print(f"First result: {first_meal['strMeal']}")
+
+    except MealAPIError as error:
+        print(error)
