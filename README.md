@@ -48,6 +48,7 @@ Activate it on macOS:
 
 ```bash
 source .venv/bin/activate
+# Windows: .venv/Scripts/activate.ps1
 ```
 
 Install the dependencies:
