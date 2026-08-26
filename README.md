@@ -29,6 +29,12 @@ Dishcovery will:
 
 Team members will create the Python files through their assigned branches and pull requests.
 
+
+## Prerequisites
+- Python 3.10.0
+- Git
+
+
 ## Local Setup
 
 Clone the repository:
