@@ -4,6 +4,8 @@ Dishcovery is a recipe discovery application built by a six-person team for the 
 
 Users can search for meals and view recipe information retrieved from [TheMealDB API](https://www.themealdb.com/api.php).
 
+<img width="1917" height="621" alt="image" src="https://github.com/user-attachments/assets/6adfe433-a90d-46d5-8b5c-299be74bc61a" />
+
 ## Minimum Viable Product
 
 Dishcovery will:
