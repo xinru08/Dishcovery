@@ -90,6 +90,8 @@ python3 -m streamlit run app.py
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for complete instructions.
 
-## Deployment
+## Live App
 
-The live Streamlit application link will be added here after deployment.
+Try Dishcovery online:
+
+https://your-dishcovery-url.streamlit.app
