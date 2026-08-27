@@ -94,4 +94,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for complete instructions.
 
 Try Dishcovery online:
 
-https://your-dishcovery-url.streamlit.app
+https://dishcovery-kv675bhbp2xkhzyhwsgixd.streamlit.app/
